@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The WebSite</title>
+    <link rel="stylesheet" href="./sty.css">
+    <link rel="stylesheet"href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">>
+</head>
+<body>
+  <section class="header">
+    <nav>
+       <a href="index.html"><img src=""></a>
+       <div class="nav-links" id="navLinks">
+        <i class="fa fa-times" onclick="hideMenu()"></i>
+        <ul>
+          <li><a href="">Home</a></li>
+          <li><a href="">About</a></li>
+          <li><a href="">Blog</a></li>
+          <li><a href="">Contact</a></li>
+        </ul>
+
+       </div>
+       <i class="fa fa-bars" onclick="showMenu()"></i>
+    </nav>
+    <div class="text-box">
+      <h1> The College     </h1>
+      <p> The cllege is ...</p>
+      <a href="" class="hero-btn">Visit Us</a>
+    </div>
+
+  </section>
+  <section class="course">
+    <h1>Courses We Offer</h1>
+    <p>The courses ...</p>
+    <div class="row">
+       <div class="course-col">
+        <h3>Level 4</h3>
+        <p>The level 4 courses are ...</p>
+
+       </div>
+       <div class="course-col">
+        <h3>Level 3</h3>
+        <p>The level 3 courses are ...</p>
+
+       </div>
+       <div class="course-col">
+        <h3>Level 2</h3>
+        <p>The level 2 courses are ...</p>
+
+       </div>
+      </div>
+
+  </section>
+<section class="campus">
+  <h1>Our Campuses</h1>
+  <p>There is another campus ...</p>
+   <div class="row">
+    
+    <div class="campus-col">
+        <img src="image/washington.png">
+       
+        <div class="layer">
+          <h3>Piaza Campus</h3>
+        </div>
+
+    </div>
+    <div class="campus-col">
+      <img src="image/london.png">
+     
+      <div class="layer">
+        <h3>Aware Campus</h3>
+      </div>
+
+  </div>
+  <div class="campus-col">
+    <img src="image/newyork.png">
+   
+    <div class="layer">
+      <h3>Main Campus</h3>
+    </div>
+
+</div>
+
+   </div>
+
+</section>
+
+<section class="fascilities">
+  <h1>Our Fascilities</h1>
+  <p>There fascilities include ...</p>
+   <div class="row">
+    
+    <div class="fascilities-col">
+        <img src="image/library.png">
+       
+        <div class="layers">
+          <h3>Library</h3>
+        </div>
+
+    </div>
+    <div class="fascilities-col">
+      <img src="image/basketball.png">
+     
+      <div class="layers">
+        <h3>Basket ball</h3>
+      </div>
+
+  </div>
+  <div class="fascilities-col">
+    <img src="image/cafeteria.png">
+   
+    <div class="layers">
+      <h3>Cafe</h3>
+    </div>
+
+</div>
+
+   </div>
+   <section>
+    <section class="testimonials">
+      <h1>Our Testimonials</h1>
+      <p>The testimonials include ...</p>
+       <div class="row">
+        
+        <div class="testimonials-col">
+            <img src="image/user1.jpg">
+           
+            <div class="layers">
+               <p>There fascilities include ...</p>
+               <h3>Sara</h3>
+               <i class="fa fa-star"></i>
+               <i class="fa fa-star"></i>
+               <i class="fa fa-star"></i>
+               <i class="fa fa-star"></i>
+               <i class="fa fa-star-o"></i>
+            </div>
+    
+        </div>
+        <div class="testimonials-col">
+          <img src="image/user2.jpg">
+         
+          <div class="layers">
+            <p>There fascilities include ...</p>
+            <h3>Beki</h3>
+            <i class="fa fa-star"></i>
+               <i class="fa fa-star"></i>
+               <i class="fa fa-star"></i>
+               <i class="fa fa-star"></i>
+               <i class="fa fa-star-half-o"></i>
+          </div>
+          </div>
+    </section>
+   <section class="cta">
+   <h1> Register Now</h1>
+   <a href="" class="hero-btn">Contact Us</a>
+   </section>
+   <section class="footer">
+    <h4>About Us</h4>
+    <p>The ..... ..... ...</p>
+    <div class="icons">
+      <i class="fa fa-facebook"></i>
+      <i class="fa fa-twitter"></i>
+      <i class="fa fa-instagram"></i>
+      <i class="fa fa-linkedin"></i>
+      <div>
+        <p>Developed By ....</p>
+      </div>
+
+    </div>
+
+   </section>
+
+</section>
+    <script>
+      var navLinks = document.getElementById("navLinks");
+      function showMenu(){
+        navLinks.style.right = "0";
+              }
+      function hideMenu(){
+        navLinks.style.right = "-200";
+        
+      }
+    </script>
+</body>
+</html>
