@@ -7,7 +7,7 @@
     
         min-height: 20vh;
         width: 30%;
-        background-image: linear-gradient(rgba(4,9,50,0.7),rgba(4,9,50,0.7)),url(/app2/image/banner.png);
+       background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(/app2/image/banner.png);
         background-position: center;
         background-size: cover;
         position: relative;
