@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Addis Ababa University</title>
+	<atom:link href="http://www.aau.edu.et/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.aau.edu.et</link>
+	<description>Seek Wisdom, Elevate your Intellect and Serve Humanity</description>
+	<lastBuildDate>Wed, 10 Aug 2022 12:32:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>AAU’s the 2022-House Renovating Program Starts in the Capital</title>
+		<link>http://www.aau.edu.et/blog/aaus-the-2022-house-renovating-program-starts-in-the-capital/</link>
+		<pubDate>Wed, 10 Aug 2022 12:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17610</guid>
+		<description><![CDATA[Addis Ababa University’s (AAU’s) Institute of Technology (AAiT) started the activity of renovating deteriorated houses for needy families located in Arada Sub-city district six of the capital, Addis Ababa, on the 8th of August 2022. Addis Ababa Institute of Technology (AAiT) through its community engagement program has a plan to rebuild four dilapidated houses for]]></description>
+		</item>
+		<item>
+		<title>Re-Advertisement for Vacant Positions Competition</title>
+		<link>http://www.aau.edu.et/blog/vacancy-announcement-22/</link>
+		<pubDate>Tue, 09 Aug 2022 11:10:54 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[For Staffs]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17408</guid>
+		<description><![CDATA[&#160; &#160; &#160; This is a Re-Advertisement for the following Positions from AAU Academic of  Ethiopian Institute of Architecture, Building and City Construction(EiABC) and Addis Ababa Institute of Technology (AAiT) using AAU appointment guideline approved by the Senate on 16th April 2018. No. Name of the Office and Position 1 Deputy Scientific Director  of EiABC]]></description>
+		</item>
+		<item>
+		<title>Prolongation of GAT Examination and Application Period to New Graduate Program Applicants</title>
+		<link>http://www.aau.edu.et/blog/prolongation-of-gat-examination-and-application-period-to-new-graduate-program-applicants/</link>
+		<pubDate>Sun, 07 Aug 2022 08:25:59 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[For Students]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17602</guid>
+		<description><![CDATA[&#160; &#160; The Graduate program GAT Examination and Application Period scheduled from July 8, 2022 to August 12, 2022. But due to our system outage, applicants could not complete the admission procedures on time. Hence, the GAT Examination will continue till August 23, 2022 and also the application period will continue till August 26, 2022.]]></description>
+		</item>
+		<item>
+		<title>Office of Administration and Student Services Hears Performance Report</title>
+		<link>http://www.aau.edu.et/blog/office-of-administration-and-student-services-hears-performance-report/</link>
+		<pubDate>Fri, 05 Aug 2022 10:21:21 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17587</guid>
+		<description><![CDATA[Addis Ababa University (AAU) Office of the Vice President for Administration and Student Services heard annual performance review report from its various administrative offices of the previous budget year at Eshetu Chole Meeting Hall on August 4, 2022. Ato Abebaw Kassa, Director of Transport and Vehicle Maintenance, in his review said that technology-assisted vehicle tracking]]></description>
+		</item>
+		<item>
+		<title>GAT Exam Schedule and List of GAT Candidates (Tuesday, August 9 &#8211; Friday August 12, 2022)</title>
+		<link>http://www.aau.edu.et/blog/gat-exam-schedule-and-list-of-gat-candidates-tuesday-august-9-friday-august-12-2022/</link>
+		<pubDate>Thu, 04 Aug 2022 14:03:38 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[Other]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17584</guid>
+		<description><![CDATA[&#160; &#160; Test Date: Tuesday, August 9 , 2022, &#8211;  Friday August 12 , 2022,   Morning Session (from 8:00 am – 12:00 pm) Afternoon Session  (from 1:00 Pm – 5:00 pm)  Exam Place Main Campus ( 6 Kilo ) and AAiT Campus (5 Kilo) &#160; Tuesday August 9, 2022 Morning  Session Candidates List  Main campus]]></description>
+		</item>
+		<item>
+		<title>Scores Management for Academic Unit Placement  To the 2014Entry First Year Undergraduate Students</title>
+		<link>http://www.aau.edu.et/blog/scores-management-for-academic-unit-placement-to-the-2014entry-first-year-undergraduate-students/</link>
+		<pubDate>Wed, 03 Aug 2022 07:54:39 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[For Students]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17580</guid>
+		<description><![CDATA[&#160; Scores Management for Academic Unit Placement To the 2014Entry First Year Undergraduate Students No. Colleges/schools/departments Ethiopian University Entrance Exam First Semester Result (GPA) Entrance Exam 1 Dental Medicine 35%  35% 30% 2 Medicine 35%  35% 30% 3 Pharmacy 35%  35% 30% 4 Other health sciences 50% 50% 5 Veterinary Medicine 50% 50% 6 Veterinary]]></description>
+		</item>
+		<item>
+		<title>New MSc. Speech and Language Therapy Program Launched in AAU</title>
+		<link>http://www.aau.edu.et/blog/new-msc-speech-and-language-therapy-program-launched-in-aau/</link>
+		<pubDate>Tue, 02 Aug 2022 12:51:03 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17570</guid>
+		<description><![CDATA[Addis Ababa University (AAU), Department of Special Needs and Inclusive Education, Department of Neurology and Department of Surgery collaboratively designed and introduced a new curriculum to launch the first MSc. Program in Speech and Language Therapy at Mandella Hall on the 27th of July 2022. The main objective of launching this MSc. program is to]]></description>
+		</item>
+		<item>
+		<title>Call for Application for Graduate Programs at the Ethiopian Institute of Water Resources, AAU</title>
+		<link>http://www.aau.edu.et/blog/call-for-application-for-graduate-programs-at-the-ethiopian-institute-of-water-resources-aau/</link>
+		<pubDate>Sun, 31 Jul 2022 07:10:10 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[For Students]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17562</guid>
+		<description><![CDATA[&#160; &#160; The Ethiopian Institute of Water Resources (EIWR) is one of the Research Institutes under the Addis Ababa University. The Institute offers PhD and MSc programs in two tracks and five specializations related to water, and conducts multi-disciplinary research in water and related fields. The Institute offers the following MSc and PhD programs, and]]></description>
+		</item>
+		<item>
+		<title>School of Information Science Hosts Curriculum Validation Workshop</title>
+		<link>http://www.aau.edu.et/blog/school-of-information-science-hosts-curriculum-validation-workshop/</link>
+		<pubDate>Fri, 29 Jul 2022 13:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17537</guid>
+		<description><![CDATA[Addis Ababa University (AAU) School of Information Science in collaboration with Columbia University (America) and University of Nairobi (Kenya) hosted a workshop on Curriculum Validation for Master of Science Degree in Public Health Data Science at Capital Hotel and Spa on July 28, 2022. Professor Alemayehu Worku, from the Department of Preventive Medicine and member]]></description>
+		</item>
+		<item>
+		<title>AAU’s Football Team Wins Silver in Ethiopian Championship Tournament</title>
+		<link>http://www.aau.edu.et/blog/aaus-football-team-wins-silver-in-ethiopian-championship-tournament/</link>
+		<pubDate>Fri, 29 Jul 2022 13:07:37 +0000</pubDate>
+		<dc:creator><![CDATA[adminfanuel]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.aau.edu.et/?p=17546</guid>
+		<description><![CDATA[A football team for Addis Ababa University (AAU) led by the Office of the Students’ Dead of the University won a silver medal in the Ethiopian Champion of Champions’ Tournament organized by Ethiopian Football Federation held at Hawassa Stadium from 3rd-23rd July 2022. Habtamu Hailemichael, coach of the team stated that his team was the]]></description>
+		</item>
+	</channel>
+</rss>
